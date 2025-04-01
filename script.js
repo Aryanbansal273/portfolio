@@ -66,7 +66,7 @@ window.addEventListener('scroll', () => {
 
 // Typing animation for hero section
 const text = document.querySelector('.text-rotate');
-const words = ['MCA Student', 'Mobile App Developer', 'Social Media Manager', 'Data Analyst'];
+const words = ['UI/UX designer', 'Mobile Application Developer', 'Social Media Manager', 'Data Analyst'];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
